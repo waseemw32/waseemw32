@@ -75,7 +75,7 @@ Bachelor's degree in Computer Science and Information Technology
 - **Email:** [wasemealedrees@gmail.com](mailto:wasemealedrees@gmail.com)
 - **LinkedIn:** [Waseem Al-Idrisi](https://www.linkedin.com/in/waseem-ali-a3937043a)
 - **GitHub:** [waseemw32](https://github.com/waseemw32)
-- **Portfolio:** Add your published portfolio URL here
+- **Portfolio:** https://waseemw32.github.io/waseem-portfolio/
 
 ---
 
