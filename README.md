@@ -25,4 +25,4 @@ Flutter · Dart · Firebase · HTML · CSS · JavaScript · PHP · MySQL · SQL 
 ## Contact
 - **Email:** wasemealedrees@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/waseem-ali-a3937043a
-- **Portfolio:** [Add your published portfolio URL here]
+- **Portfolio:** https://github.com/waseemw32/waseem-portfolio.git
